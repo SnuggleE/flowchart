@@ -11,5 +11,13 @@
     "chart"
   ],
   "author": "ljk",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnuggleE/flowchart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SnuggleE/flowchart/issues"
+  },
+  "homepage": "https://github.com/SnuggleE/flowchart#readme"
 }
