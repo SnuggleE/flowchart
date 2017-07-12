@@ -1,0 +1,15 @@
+{
+  "name": "flowchart",
+  "version": "1.0.0",
+  "description": "like mindmanager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flow",
+    "chart"
+  ],
+  "author": "ljk",
+  "license": "ISC"
+}
